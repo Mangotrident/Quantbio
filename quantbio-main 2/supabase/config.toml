@@ -1,0 +1,4 @@
+project_id = "wqmtkmuwjealhsmsymgz"
+
+[functions.quantum-simulate]
+verify_jwt = false
